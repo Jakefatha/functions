@@ -6,7 +6,7 @@ def who_am_I(): #this is a function
 	name = "Javis"
 	age = 21
 	print("My name is "+ name + " and I am " + str(age) + " years old.")
-who_am_i() #call the function to run
+who_am_I() #call the function to run
 
 #adding parameters
 def add_one_hundred(num):
