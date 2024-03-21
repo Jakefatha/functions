@@ -2,7 +2,7 @@
 
 print("Here is an example function:")
 
-def who_am_i(): #this is a function
+def who_am_I(): #this is a function
 	name = "Javis"
 	age = 21
 	print("My name is "+ name + " and I am " + str(age) + " years old.")
